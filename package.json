@@ -1,0 +1,14 @@
+{
+  "name": "less-before-listen",
+  "version": "0.0.0",
+  "description": "A tool for precompiling your less files before firing up your node server.",
+  "main": "index.js",
+  "dependencies": {
+    "less": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kerry Gilbert <kerry@punkave.com> (http://punkave.com/)",
+  "license": "ISC"
+}
