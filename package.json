@@ -3,6 +3,10 @@
   "version": "0.0.0",
   "description": "A tool for precompiling your less files before firing up your node server.",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:colpanik/less-before-listen.git"
+  },  
   "dependencies": {
     "less": "*"
   },
