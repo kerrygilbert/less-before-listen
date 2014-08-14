@@ -1,6 +1,6 @@
 {
   "name": "less-before-listen",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "description": "A tool for precompiling your less files before firing up your node server.",
   "main": "index.js",
   "repository": {
